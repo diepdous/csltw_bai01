@@ -11,5 +11,7 @@
 3. git add . 
 <!-- Commit code -->
 4. git commit -m "noi dung"
+<!-- Lay code tu online ve (TH nguoi khac cung team da push code len truoc do) -->
+4.1. git pull origin dev
 <!-- Push code -->
 5. git push origin dev
